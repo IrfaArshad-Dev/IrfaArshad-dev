@@ -61,17 +61,12 @@ Leading the visual identity and design output of the society, managing creative 
 
 ---
 
-## 📊 GitHub Stats
-
-![Irfa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IrfaArsh-dev&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IrfaArsh-dev&layout=compact&hide_border=true&theme=default)
 
 ---
 
 ## 📬 Let's Connect
 
-![LinkedIn](https://www.linkedin.com/in/irfa-arshad-833a77421/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-coming%20soon-lightgrey?style=flat&logo=linkedin)(https://www.linkedin.com/in/irfa-arshad-833a77421/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:63662@students.riphah.edu.pk)
 
 ---
