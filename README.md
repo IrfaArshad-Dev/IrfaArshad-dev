@@ -65,8 +65,7 @@ Leading the visual identity and design output of the society, managing creative 
 ---
 
 ## 📬 Let's Connect
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-coming%20soon-lightgrey?style=flat&logo=linkedin)(https://www.linkedin.com/in/irfa-arshad-833a77421/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Irfa%20Arshad-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfa-arshad-833a77421/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:63662@students.riphah.edu.pk)
 
 ---
