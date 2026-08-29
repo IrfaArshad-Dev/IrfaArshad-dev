@@ -24,13 +24,13 @@
 
 **Irfa Arshad — Full Stack Developer & UI/UX Designer**
 
-🎓 &nbsp;SE Student — 5th Semester, BSSE @ Riphah International University  
-📍 &nbsp;Rawalpindi, Pakistan  
-💻 &nbsp;Building web & mobile apps with clean code  
-🎨 &nbsp;Design is my superpower, not just a skill  
-🔍 &nbsp;Open to internships, collabs & freelance projects  
-🏢 &nbsp;**Lead Graphic Designer** @ Pak Passionate  
-🏢 &nbsp;**Head of Graphics** @ Skill Sphere Society  
+🎓 &nbsp;SE Student — 5th Semester, BSSE @ Riphah International University
+📍 &nbsp;Rawalpindi, Pakistan
+💻 &nbsp;Building web & mobile apps with clean code
+🎨 &nbsp;Design is my superpower, not just a skill
+🔍 &nbsp;Open to internships, collabs & freelance projects
+🏢 &nbsp;**Lead Graphic Designer** @ Pak Passionate
+🏢 &nbsp;**Head of Graphics** @ Skill Sphere Society
 
 > *"First, solve the problem. Then, write the code."*
 
@@ -84,7 +84,7 @@
 
 ### 🗄️ Database Billing Management System
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IrfaArshad-Dev&repo=Database-Billing-Management-System&theme=midnight-purple&border_color=a78bfa&title_color=a78bfa&icon_color=a78bfa&text_color=ddd6fe&bg_color=0f0a1e&cache_seconds=1800)](https://github.com/IrfaArshad-Dev/Database-Billing-Management-System)
+> A complete billing and database management system built with C++ and SQL — handles records, CRUD operations, and automated billing logic.
 
 | Layer | Technology |
 |---|---|
@@ -92,35 +92,43 @@
 | Core | Database Design, CRUD, Billing Logic |
 | Tools | VS Code, Git |
 
-[![View Code](https://img.shields.io/badge/View%20Code-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IrfaArshad-Dev/Database-Billing-Management-System)
+[![View Code](https://img.shields.io/badge/View%20Code-IrfaArshad--Dev%2FDatabase--Billing--Management--System-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IrfaArshad-Dev/Database-Billing-Management-System)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 My Stats
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=IrfaArshad-Dev&show_icons=true&theme=midnight-purple&border_color=a78bfa&title_color=a78bfa&icon_color=a78bfa&text_color=ddd6fe&bg_color=0f0a1e&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" />
-&nbsp;
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrfaArshad-Dev&theme=midnight-purple&border_color=a78bfa&title_color=a78bfa&text_color=ddd6fe&bg_color=0f0a1e&layout=compact&langs_count=6&cache_seconds=1800" />
+![Commits](https://img.shields.io/badge/Total%20Commits-Growing%20Daily-a78bfa?style=for-the-badge&logo=git&logoColor=white&labelColor=1e1b4b)
+![Repos](https://img.shields.io/badge/Public%20Repos-Check%20Profile-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b)
+![Languages](https://img.shields.io/badge/Languages-7%2B-a78bfa?style=for-the-badge&logo=codepen&logoColor=white&labelColor=1e1b4b)
+![Focus](https://img.shields.io/badge/Focus-Web%20%26%20Mobile%20Apps-a78bfa?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1e1b4b)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Currently Focused On
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IrfaArshad-Dev&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" />
-</div>
+```text
+🌐  Web Development        ████████████░░░░   React + Node.js + PHP
+🐍  Python Projects        ████████░░░░░░░░   Scripting & Automation
+📱  Mobile Apps            ██████░░░░░░░░░░   Learning & Building
+🎨  UI/UX Design           ██████████░░░░░░   Figma & Illustrator
+⚙️  DSA & Algorithms       ████████████░░░░   C++ & Java
+```
 
 ---
 
-## 📈 Contribution Activity
+## 📚 Academic Projects
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IrfaArshad-Dev&bg_color=0f0a1e&color=a78bfa&line=a78bfa&point=c4b5fd&area=true&area_color=3b0764&hide_border=true" />
-</div>
+| Project | Course | Tech | Repo |
+|---|---|---|---|
+| 🗄️ Database Billing Management System | Database Systems | C++ / SQL | [View](https://github.com/IrfaArshad-Dev/Database-Billing-Management-System) |
+| 🔍 Word Search Puzzle Solver | Analysis of Algorithms | C++ | Coming Soon |
+| 🚗 Car Sensor System | Digital Logic Design | Arduino / C++ | Coming Soon |
+| 🧠 MindGuard – Burnout Detection App | HCI | Figma / UX | Coming Soon |
 
 ---
 
@@ -131,6 +139,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Irfa%20Arshad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfa-arshad-833a77421/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-63662%40students.riphah.edu.pk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:63662@students.riphah.edu.pk)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-IrfaArshad--Dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IrfaArshad-Dev)
 
 </div>
 
