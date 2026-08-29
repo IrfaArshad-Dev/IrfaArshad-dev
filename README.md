@@ -84,7 +84,7 @@
 
 ### 🗄️ Database Billing Management System
 
-> A complete billing and database management system built with C++ and SQL — handles records, CRUD operations, and automated billing logic.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IrfaArshad-Dev&repo=Database-Billing-Management-System&theme=midnight-purple&border_color=a78bfa&title_color=a78bfa&icon_color=a78bfa&text_color=ddd6fe&bg_color=0f0a1e)](https://github.com/IrfaArshad-Dev/Database-Billing-Management-System)
 
 | Layer | Technology |
 |---|---|
@@ -92,43 +92,39 @@
 | Core | Database Design, CRUD, Billing Logic |
 | Tools | VS Code, Git |
 
-[![View Code](https://img.shields.io/badge/View%20Code-IrfaArshad--Dev%2FDatabase--Billing--Management--System-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IrfaArshad-Dev/Database-Billing-Management-System)
+[![View Code](https://img.shields.io/badge/View%20Code-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IrfaArshad-Dev/Database-Billing-Management-System)
 
 ---
 
-## 📊 My Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Commits](https://img.shields.io/badge/Total%20Commits-Growing%20Daily-a78bfa?style=for-the-badge&logo=git&logoColor=white&labelColor=1e1b4b)
-![Repos](https://img.shields.io/badge/Public%20Repos-Check%20Profile-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b)
-![Languages](https://img.shields.io/badge/Languages-7%2B-a78bfa?style=for-the-badge&logo=codepen&logoColor=white&labelColor=1e1b4b)
-![Focus](https://img.shields.io/badge/Focus-Web%20%26%20Mobile%20Apps-a78bfa?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1e1b4b)
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=IrfaArshad-Dev&show_icons=true&theme=midnight-purple&border_color=a78bfa&title_color=a78bfa&icon_color=a78bfa&text_color=ddd6fe&bg_color=0f0a1e&count_private=true&include_all_commits=true&rank_icon=github" />
+&nbsp;
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrfaArshad-Dev&theme=midnight-purple&border_color=a78bfa&title_color=a78bfa&text_color=ddd6fe&bg_color=0f0a1e&layout=compact&langs_count=6" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=IrfaArshad-Dev&theme=midnight-purple&border=a78bfa&ring=a78bfa&fire=c4b5fd&currStreakLabel=a78bfa&sideLabels=a78bfa&background=0f0a1e&stroke=a78bfa" />
 
 </div>
 
 ---
 
-## 🎯 Currently Focused On
+## 🏆 GitHub Trophies
 
-```text
-🌐  Web Development        ████████████░░░░   React + Node.js + PHP
-🐍  Python Projects        ████████░░░░░░░░   Scripting & Automation
-📱  Mobile Apps            ██████░░░░░░░░░░   Learning & Building
-🎨  UI/UX Design           ██████████░░░░░░   Figma & Illustrator
-⚙️  DSA & Algorithms       ████████████░░░░   C++ & Java
-```
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IrfaArshad-Dev&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" />
+</div>
 
 ---
 
-## 📚 Academic Projects
+## 📈 Contribution Activity
 
-| Project | Course | Tech | Repo |
-|---|---|---|---|
-| 🗄️ Database Billing Management System | Database Systems | C++ / SQL | [View](https://github.com/IrfaArshad-Dev/Database-Billing-Management-System) |
-| 🔍 Word Search Puzzle Solver | Analysis of Algorithms | C++ | Coming Soon |
-| 🚗 Car Sensor System | Digital Logic Design | Arduino / C++ | Coming Soon |
-| 🧠 MindGuard – Burnout Detection App | HCI | Figma / UX | Coming Soon |
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IrfaArshad-Dev&bg_color=0f0a1e&color=a78bfa&line=a78bfa&point=c4b5fd&area=true&area_color=3b0764&hide_border=true" />
+</div>
 
 ---
 
