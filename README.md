@@ -1,94 +1,110 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Irfa%20Arshad&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20UI%2FUX%20Designer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=e0f2fe" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Irfa%20Arshad&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20SE%20Student&descAlignY=58&descSize=18&descColor=ddd6fe" />
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&multiline=false&width=650&lines=C%2B%2B+%7C+Java+%7C+DSA+%7C+Algorithms;UI%2FUX+Design+%7C+Figma+%7C+Canva;Lead+Graphic+Designer+%40+Pak+Passionate;Head+of+Graphics+%40+Skill+Sphere+Society;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Building+websites+%26+mobile+apps+%F0%9F%9A%80;React+%7C+Node.js+%7C+PHP+%7C+Python;C%2B%2B+%7C+Java+%7C+DSA+%7C+Algorithms;UI%2FUX+Design+as+a+superpower+%F0%9F%8E%A8;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Internships%20%26%20Collaborations-7dd3fc?style=for-the-badge&labelColor=0f172a&color=7dd3fc" />
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Internships%20%26%20Collabs-a78bfa?style=for-the-badge&labelColor=1e1b4b" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=IrfaArshad-Dev&style=for-the-badge&color=7dd3fc&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=IrfaArshad-Dev&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS&abbreviated=true" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/IrfaArshad-Dev?style=for-the-badge&color=7dd3fc&labelColor=0f172a&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/IrfaArshad-Dev?style=for-the-badge&color=a78bfa&labelColor=1e1b4b&label=FOLLOWERS" />
 
 </div>
 
 ---
 
-## 🧩 Who I Am
+## 👩‍💻 Who I Am
 
-```typescript
-const irfa = {
-  title:           "Software Engineering Student & UI/UX Designer",
-  university:      "Riphah International University, Islamabad",
-  semester:        "5th Semester — BSSE",
-  location:        "Rawalpindi, Pakistan",
+<table>
+<tr>
+<td width="55%">
 
-  stack: {
-    languages:     ["C++", "Java"],
-    cs:            ["Data Structures & Algorithms", "Digital Logic Design", "Analysis of Algorithms"],
-    design:        ["Figma", "Adobe Illustrator", "Canva", "UI/UX Design"],
-    tools:         ["Git", "GitHub", "VS Code"],
-  },
+### Irfa Arshad
+**Full Stack Developer & UI/UX Designer**
 
-  roles: [
-    "Lead Graphic Designer @ Pak Passionate",
-    "Head of Graphics @ Skill Sphere Society",
-  ],
-
-  launchedProjects: [
-    "Database Billing Management System",
-    "Word Search Puzzle Solver (Trie + DFS + Backtracking)",
-    "Car Sensor System (Arduino + Digital Logic)",
-  ],
-
-  status:          "Open to internships, collabs & design/dev projects",
-  openTo:          ["Internships", "Freelance Design", "Open Source", "Collaborations"],
-  motto:           "First, solve the problem. Then, write the code.",
-};
-```
+🎓 &nbsp;SE Student — 5th Semester, BSSE @ Riphah International University  
+📍 &nbsp;Rawalpindi, Pakistan  
+💻 &nbsp;Building web & mobile apps with clean code  
+🎨 &nbsp;Design is my superpower, not just a skill  
+🔍 &nbsp;Open to internships, collabs & freelance projects  
 
 ---
 
-## 📌 Featured Projects
+🏢 **Lead Graphic Designer** @ Pak Passionate  
+🏢 **Head of Graphics** @ Skill Sphere Society  
 
-### 🗄️ Database Billing Management System
+---
 
-<a href="https://github.com/IrfaArshad-Dev/Database-Billing-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IrfaArshad-Dev&repo=Database-Billing-Management-System&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
-</a>
+> *"First, solve the problem. Then, write the code."*
 
-| Layer | Technology |
-|---|---|
-| Language | C++ / SQL |
-| Core Concepts | Database Design, CRUD Operations, Billing Logic |
-| Tools | VS Code, Git |
+</td>
+<td width="45%" align="center">
 
-[![Code](https://img.shields.io/badge/View%20Code-7dd3fc?style=for-the-badge&logo=github&logoColor=0f172a)](https://github.com/IrfaArshad-Dev/Database-Billing-Management-System)
+**Currently Working With**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages & CS
+**Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css&theme=dark" />
 </p>
 
-### 🎨 Design & UI/UX
+**Frontend & Mobile**
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ai,canva&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
 </p>
 
-### 🔧 Dev Tools
+**Backend & Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,php,mysql&theme=dark" />
 </p>
+
+**Design**
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark" />
+</p>
+
+**Tools**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
+
+---
+
+## 📌 Featured Project
+
+### 🗄️ Database Billing Management System
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IrfaArshad-Dev&repo=Database-Billing-Management-System&theme=midnight-purple&border_color=a78bfa&title_color=a78bfa&icon_color=a78bfa&text_color=ddd6fe&bg_color=0f0a1e)](https://github.com/IrfaArshad-Dev/Database-Billing-Management-System)
+
+| Layer | Technology |
+|---|---|
+| Language | C++ / SQL |
+| Core | Database Design, CRUD, Billing Logic |
+| Tools | VS Code, Git |
+
+[![Code](https://img.shields.io/badge/View%20Code-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IrfaArshad-Dev/Database-Billing-Management-System)
 
 ---
 
@@ -96,14 +112,15 @@ const irfa = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IrfaArshad-Dev&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=e0f2fe&bg_color=0f172a&hide_border=false&include_all_commits=true&count_private=true" height="180" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=IrfaArshad-Dev&show_icons=true&theme=midnight-purple&border_color=a78bfa&title_color=a78bfa&icon_color=a78bfa&text_color=ddd6fe&bg_color=0f0a1e&hide_border=false&count_private=true&include_all_commits=true" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrfaArshad-Dev&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=e0f2fe&bg_color=0f172a&layout=compact&langs_count=6" height="180" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrfaArshad-Dev&theme=midnight-purple&border_color=a78bfa&title_color=a78bfa&text_color=ddd6fe&bg_color=0f0a1e&layout=compact&langs_count=6" />
 
-<br/><br/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=IrfaArshad-Dev&theme=nord&border=7dd3fc&ring=7dd3fc&fire=38bdf8&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=e0f2fe&background=0f172a" />
-
+<div align="center">
+<br/>
+<img src="https://streak-stats.demolab.com?user=IrfaArshad-Dev&theme=midnight-purple&border=a78bfa&ring=a78bfa&fire=c4b5fd&currStreakLabel=a78bfa&sideLabels=a78bfa&background=0f0a1e&stroke=a78bfa" />
 </div>
 
 ---
@@ -111,7 +128,7 @@ const irfa = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IrfaArshad-Dev&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IrfaArshad-Dev&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6" />
 </div>
 
 ---
@@ -119,12 +136,12 @@ const irfa = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IrfaArshad-Dev&theme=nord&color=7dd3fc&line=7dd3fc&point=38bdf8&bg_color=0f172a&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IrfaArshad-Dev&theme=tokyo-night&color=a78bfa&line=a78bfa&point=c4b5fd&bg_color=0f0a1e&hide_border=true&area=true&area_color=a78bfa" />
 </div>
 
 ---
 
-## 📬 Let's Connect
+## 📬 Connect
 
 <div align="center">
 
@@ -134,10 +151,4 @@ const irfa = {
 
 </div>
 
----
-
-<div align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer&animation=twinkling" />
