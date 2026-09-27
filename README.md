@@ -100,25 +100,12 @@
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=IrfaArshad-Dev&show_icons=true&theme=midnight-purple&border_color=a78bfa&title_color=a78bfa&icon_color=a78bfa&text_color=ddd6fe&bg_color=0f0a1e&count_private=true&include_all_commits=true&rank_icon=github" />
-&nbsp;
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrfaArshad-Dev&theme=midnight-purple&border_color=a78bfa&title_color=a78bfa&text_color=ddd6fe&bg_color=0f0a1e&layout=compact&langs_count=6" />
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=IrfaArshad-Dev&theme=midnight-purple&border=a78bfa&ring=a78bfa&fire=c4b5fd&currStreakLabel=a78bfa&sideLabels=a78bfa&background=0f0a1e&stroke=a78bfa" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IrfaArshad-Dev&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=10" />
-</div>
-
----
 
 ## 📈 Contribution Activity
 
