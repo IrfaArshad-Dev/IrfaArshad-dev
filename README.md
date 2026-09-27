@@ -107,13 +107,7 @@
 ---
 
 
-## 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IrfaArshad-Dev&bg_color=0f0a1e&color=a78bfa&line=a78bfa&point=c4b5fd&area=true&area_color=3b0764&hide_border=true" />
-</div>
-
----
 
 ## 📬 Connect
 
